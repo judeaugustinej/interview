@@ -141,6 +141,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+* [Python Cookbook by David Beazley and Brian Jones 3rd edition](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 ## Maths
 
