@@ -146,9 +146,9 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 
 ### goland
 
-*[working-with-go](https://github.com/mkaz/working-with-go)
-*[golang-for-python-programmers](https://golang-for-python-programmers.readthedocs.org/en/latest/intro.html)
-*[go-for-pythonists](https://github.com/ChimeraCoder/go-for-pythonists)
+* [working-with-go](https://github.com/mkaz/working-with-go)
+* [golang-for-python-programmers](https://golang-for-python-programmers.readthedocs.org/en/latest/intro.html)
+* [go-for-pythonists](https://github.com/ChimeraCoder/go-for-pythonists)
 
 ## Maths
 
